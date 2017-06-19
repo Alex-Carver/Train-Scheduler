@@ -1,0 +1,48 @@
+body{
+  background:url("http://eskipaper.com/images/railway-3.jpg");
+}
+
+.jumbotron{
+  background-color:#efffff;
+  color:black;
+  border:5px grey solid;
+}
+
+h1.train-times{
+    font-size: 60px;
+    font-weight: 700;
+}
+.choo{
+      font-size: 40px;
+    font-weight: 700;
+}
+
+.panel-body{
+  border:5px grey solid;
+}
+
+.current ,.add{
+  background-color: #fff;
+  color:black;
+  font-size:30px;
+  padding-left: 3px;
+}
+#trainTable{
+  background-color:#efffff;
+  color:black;
+  font-size:20px;
+  font: bold;
+}
+#trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+  color:black;
+  font-size:18px;
+  background-color:#efffff;
+}
+.form-group{
+  color: black;
+  font-size:20px;
+}
+.btn{
+  background-color:green;
+  font-size:20px;
+}
